@@ -1,0 +1,19 @@
+{
+  "name": "FizzBuzz",
+  "version": "1.0.0",
+  "description": "Fizz Buzz is an ideal, simple introduction to TDD with the emphasis on the\r process rather than the implementation. There is no input to process, just an\r output to the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "install": "^0.13.0",
+    "jest": "^28.1.3",
+    "mocha": "^10.0.0"
+  }
+}
