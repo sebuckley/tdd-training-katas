@@ -1,0 +1,17 @@
+{
+  "name": "ParkingBill",
+  "version": "1.0.0",
+  "description": "The parking bill calculator is a simple service to calculate the bill due for a\r single parking ticket based on the time of entry and the time of exit (or more\r accurately payment).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "jest": "^28.1.3"
+  }
+}
